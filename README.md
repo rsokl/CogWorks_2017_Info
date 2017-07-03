@@ -9,7 +9,6 @@
   - [Atom + Python](http://www.marinamele.com/install-and-configure-atom-editor-for-python)
      - Direct competitor/very similar to VSCode. 
   - [Sublime + Python](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
-     - 
   - [emacs + Python](https://realpython.com/blog/python/emacs-the-best-python-editor/) 
      - This is *not* easy to get going with... but it can be fun and pretty powerful once you put some serious work into it.
   - [vim + Python](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/) 
