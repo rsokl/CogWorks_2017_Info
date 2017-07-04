@@ -12,11 +12,12 @@ provide nice color coding, syntax-checking, and many other capabilities to facil
   - [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/#section=windows)
      - easy and powerful... it just works. Be sure to [configure PyCharm so that it uses Anaconda's python as its interpretor](https://docs.continuum.io/anaconda/user-guide/tasks/integration/pycharm). The only downside is that it only works for Python, whereas other editors are more general. It can also be a little intimidating to use at first. At the end of the day, it is simply editing and saving .py files, just as any other text editor does. Don't worry about all of the debugging and auto-run features.
   - [Visual Studio Code + Python add-ons](https://code.visualstudio.com/docs/languages/python)
-     - VSCode is a general editor, so you can use it with other languages. Not as polished and powerful as PyCharm.
+     - VSCode is a general editor, so you can use it with other languages. Not as polished and powerful as PyCharm, but it is more light-weight and battery-life friendly. Feels more like a text editor.
   - [Atom + Python](http://www.marinamele.com/install-and-configure-atom-editor-for-python)
-     - Direct competitor/very similar to VSCode. 
+     - Direct competitor/very similar to VSCode. Not clear what makes Atom better than VSCode and vice-versa.
   - [Sublime + Python](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
+     - A true text editor with nice Python stylings.
   - [emacs + Python](https://realpython.com/blog/python/emacs-the-best-python-editor/) 
-     - This is *not* easy to get going with... but it can be fun and pretty powerful once you put some serious work into it.
+     - This is *not* easy to get going with... but it can be fun and pretty powerful once you put some serious work into it. For videogame fans, this is like the Dark Souls of text editors: very challenging, but rewarding.
   - [vim + Python](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/) 
      - same remarks as for emacs... not a walk in the park, but some people really love tinkering with vim & emacs
