@@ -10,7 +10,7 @@ provide nice color coding, syntax-checking, and many other capabilities to facil
 
 ### Some Recommended Editors
   - [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/#section=windows)
-     - easy and powerful... it just works. The only downside is that it only works for Python, whereas other editors are more general. It can also be a little intimidating to use at first
+     - easy and powerful... it just works. Be sure to [configure PyCharm so that it uses Anaconda's python as its interpretor](https://docs.continuum.io/anaconda/user-guide/tasks/integration/pycharm). The only downside is that it only works for Python, whereas other editors are more general. It can also be a little intimidating to use at first. At the end of the day, it is simply editing and saving .py files, just as any other text editor does. Don't worry about all of the debugging and auto-run features.
   - [Visual Studio Code + Python add-ons](https://code.visualstudio.com/docs/languages/python)
      - VSCode is a general editor, so you can use it with other languages. Not as polished and powerful as PyCharm.
   - [Atom + Python](http://www.marinamele.com/install-and-configure-atom-editor-for-python)
