@@ -3,7 +3,7 @@
 - Pen/pencil & notebook
 - Several audio files (e.g. .mp3) of some of your favorite songs available on your computer.
     - If you have a pair of headphones/ear buds, bring them. **Do not buy headphones for this course!** 
- - (Optional) Upload ~5 photos of yourself, jpg or png files, labelled as Melanie_Chen1.jpg, Melanie_Chen2.jpg, and so forth. 
+ - (Optional) Upload ~5 photos of yourself (and no one else!), jpg or png files, labelled as Melanie_Chen1.jpg, Melanie_Chen2.jpg, and so forth. 
 https://www.dropbox.com/request/OyEil5vAnf7CMn85b2UL
     - These pictures **will not be shared or posted to any of the other students or faculty**. The pictures will be processed by a simple algorithm that the instructors wrote **and the pictures will be promptly deleted afterwards**. 
 - Completed programming assignments available on your computer
