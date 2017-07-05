@@ -12,8 +12,7 @@ https://www.dropbox.com/request/OyEil5vAnf7CMn85b2UL
      - When installing Anaconda, there is an installation option: `Allow Anaconda to add itself to your path (not recommended)`; we advise you to **enable** this installation option.
      - If you haven't done this in a while, run `conda update --all`. This will update all of your Python packages installed via conda. This will **not** upgrade Python 3.5 to 3.6.
 - [git on your computer](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-    - **Windows users: you must do this by [installing Git Bash](https://git-for-windows.github.io/)**. During installation, it will ask
-      you if you want to install the mintty terminal, which comes with linux/unix utilities enabled: **ENABLE THIS OPTION**. Another installation option will ask if you want Windows-styled line endings (CRLF) to be converted to linux-style endings (LF): **ENABLE THIS OPTION**.
+    - **Windows users: you must do this by [installing Git Bash](https://git-for-windows.github.io/)**. Follow [these installation instructions](https://github.com/LLCogWorks2017/CogWorks_2017_Info/blob/master/WindowsGitInstructions.md)
 - [A GitHub account](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
     - Email Ryan Soklaski or Melanie Chen, telling them what your GitHub username is. You will be added to [the LLCogWorks2017 GitHub Group](https://github.com/LLCogWorks2017)
 - [Connect git with your GitHub account, via SSH](https://help.github.com/articles/connecting-to-github-with-ssh/) by following the steps in the linked page. This will save your GitHub login information (in a secure way) on your computer, allowing you to seamlessly push/pull to/from your GitHub repositories from your local computer.
