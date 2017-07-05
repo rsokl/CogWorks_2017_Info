@@ -1,6 +1,6 @@
 # Installing Git on Windows
 
-[Download git for Windows] and begin installation
+[Download git for Windows](https://git-for-windows.github.io/) and begin installation
 
 ## Installation Instructions
 - `Adjusting your PATH environment` -> Use Git from Git Bash only
