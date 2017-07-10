@@ -7,7 +7,7 @@
 ## Project-Specific Goals 
 -	Become proficient in working with three major modalities of data that are essential for computer-human interfaces: audio, visual, and language
 -	Learn and apply fundamental concepts of deep learning
--	Develop a framework for performing back-propagation through a computational graph, to power machine learning
+-	Develop a robust tensor-based framework for performing back-propagation through a computational graph, to power machine learning
 -	Create and train convolutional neural networks for computer vision
 -	Become comfortable with web-development techniques, targeted at developing custom skills for a cognitive assistant (i.e. Alexa)
 -	Gain experience using and programming a Raspberry Pi to piece together the “piping” 
